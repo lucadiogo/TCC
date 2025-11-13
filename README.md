@@ -16,4 +16,4 @@ Para servir modelos grandes a cada vez mais usuários, novos
  consequente emissão de dióxido de gases poluentes pelas implementações de modelos de ML.
 
  
-[Pôster](lucadiogo.github.io/TCC/poster.pdf)
+[Pôster](poster.pdf)
