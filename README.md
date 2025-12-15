@@ -2,6 +2,7 @@
 
 ## Trabalho de Conclusão de Curso - MAC0499
 ## Luca Diogo da Silva - NUSP 12542693
+## Orientador: Prof. Dr. Alfredo Goldman vel Lejbman
 
 A recente expansão do mercado de modelos de aprendizado de máquina (ML — machine learning) esteve
 ancorada não só no desenvolvimento de modelos mais sofisticados para resolver problemas complexos, como
